@@ -1,4 +1,8 @@
-# 💫 About Me:
+##![banner](<img width="1834" alt="Make your README" src="https://github.com/ljkahn/ljkahn/assets/141527404/0c5fe083-bf24-4ec5-8059-b45b62fed7b8">)
+
+
+
+##💫 About Me:
 🔭 I’m currently working on Blurb - a MERN stack application.<br><br>🌱 I’m currently learning more about audio plug-in development<br><br> 💬 Ask me about full-stack development, audio engineering, or climbing.<br><br> 📫 How to reach me lia.j.kahn@gmail.com.<br><br>✨Fun fact -> I was classically trained in piano for 15 years.
 
 
