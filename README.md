@@ -2,7 +2,7 @@
 
 
 
-##💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Blurb - a MERN stack application.<br><br>🌱 I’m currently learning more about audio plug-in development<br><br> 💬 Ask me about full-stack development, audio engineering, or climbing.<br><br> 📫 How to reach me lia.j.kahn@gmail.com.<br><br>✨Fun fact -> I was classically trained in piano for 15 years.
 
 
