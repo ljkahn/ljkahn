@@ -1,4 +1,4 @@
-##<img width="1834" alt="Make your README" src="https://github.com/ljkahn/ljkahn/assets/141527404/0c5fe083-bf24-4ec5-8059-b45b62fed7b8">
+<img width="1834" alt="Make your README" src="https://github.com/ljkahn/ljkahn/assets/141527404/0c5fe083-bf24-4ec5-8059-b45b62fed7b8">
 
 
 
