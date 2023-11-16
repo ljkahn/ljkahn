@@ -1,5 +1,6 @@
 
-<img width="1834" alt="Make your README (3)" src="https://github.com/ljkahn/ljkahn/assets/141527404/7bdbb623-98eb-431e-9107-5dc8f5b4e889">
+<img width="1834" alt="Make your README (4)" src="https://github.com/ljkahn/ljkahn/assets/141527404/ffca8186-0e3a-49be-8fb1-027cc1cbf40a">
+
 
 ##
 <a href = "https://www.linkedin.com/in/lia-kahn/"><img src="https://simpleicons.now.sh/linkedin/FFFFFF" alt="LinkedIn" width="40" height="40"></a> <a href = "https://instagram.com/liakahn"><img src="https://simpleicons.vercel.app/instagram/FFFFFF" alt= "Instagram" width="30" height="30"></a>
